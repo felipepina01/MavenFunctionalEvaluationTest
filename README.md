@@ -20,18 +20,18 @@ mvn test
 To run the tests using a Selenium Grid hub or node:
 
 ```
-gradle test -Durl=<url>
+mvn test -Durl=<url>
 ```
 
 Where:
 
-`<url>` = Any remote server (hub or node) running selenium grid
+`<url>` = Any local/remote server (hub or node) running Selenium Grid
 
 
 If you are running it locally, you can run the tests by using, for example:
 
 ```
-gradle test -Durl=http://localhost:4444
+mvn test -Durl=http://localhost:4444
 ```
 
 (More info related to setting up Selenium Grid setup in the end of this README file)
