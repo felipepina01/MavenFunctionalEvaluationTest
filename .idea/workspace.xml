@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3ffb37a-05b9-4235-a3e7-e46aa18c362e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenFunctionalEvaluationTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/CommonActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/CommonProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/GoHopPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/JUnitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2019-12-14T16-33-34_722-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2019-12-14T18-44-54_774-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2019-12-14T18-49-49_053-jvmRun1.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/JUnitTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-JUnitTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.JUnitTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/tests.JUnitTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/MavenFunctionalEvaluationTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/common/CommonActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/common/CommonProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/GoHopPage$Month.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/GoHopPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/JUnitTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UuD8XNfFuBRDl8PyQxZ5eHGRFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.JUnitTests.searchNoDestination">
+    <configuration name="JUnitTests" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenFunctionalEvaluationTest" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.JUnitTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTests.googleSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenFunctionalEvaluationTest" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.JUnitTests" />
+      <option name="METHOD_NAME" value="googleSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTests.searchFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenFunctionalEvaluationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.JUnitTests" />
+      <option name="METHOD_NAME" value="searchFieldTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTests.searchNoDestination" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenFunctionalEvaluationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.JUnitTests" />
+      <option name="METHOD_NAME" value="searchNoDestination" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JUnitTests.searchNoDestination" />
+        <item itemvalue="JUnit.JUnitTests.searchFieldTest" />
+        <item itemvalue="Android JUnit.JUnitTests" />
+        <item itemvalue="JUnit.JUnitTests.googleSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3ffb37a-05b9-4235-a3e7-e46aa18c362e" name="Default Changelist" comment="" />
+      <created>1576197427476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576197427476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576206683808">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="444" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.973@0.23.1680.973" timestamp="1576206683808" />
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom" timestamp="1576351484644">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1576351484644" />
+    <state width="1638" height="324" key="GridCell.Tab.0.center" timestamp="1576351484644">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1576351484644" />
+    <state width="1638" height="324" key="GridCell.Tab.0.left" timestamp="1576351484644">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1576351484644" />
+    <state width="1638" height="324" key="GridCell.Tab.0.right" timestamp="1576351484644">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1576351484644" />
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom" timestamp="1576351484646">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1576351484646" />
+    <state width="1638" height="324" key="GridCell.Tab.1.center" timestamp="1576351484645">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1576351484645" />
+    <state width="1638" height="324" key="GridCell.Tab.1.left" timestamp="1576351484645">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1576351484645" />
+    <state width="1638" height="324" key="GridCell.Tab.1.right" timestamp="1576351484645">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1576351484645" />
+    <state x="672" y="313" key="Maven.ArtifactSearchDialog" timestamp="1576337710636">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="672" y="313" key="Maven.ArtifactSearchDialog/0.23.1680.973@0.23.1680.973" timestamp="1576337710636" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1576253951012">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1680.973@0.23.1680.973" timestamp="1576253951012" />
+    <state x="234" y="207" key="new project wizard" timestamp="1576250592008">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="234" y="207" key="new project wizard/0.23.1680.973@0.23.1680.973" timestamp="1576250592008" />
+  </component>
+</project>

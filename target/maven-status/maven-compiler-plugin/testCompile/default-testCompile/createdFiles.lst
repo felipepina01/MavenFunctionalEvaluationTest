@@ -1,0 +1,5 @@
+pages/GoHopPage.class
+tests/JUnitTests.class
+common/CommonProperties.class
+pages/GoHopPage$Month.class
+common/CommonActions.class
